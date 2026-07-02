@@ -1,0 +1,6 @@
+{
+  "name": "Computer Easy",
+  "description": "电脑小助手 (Computer Easy) - 专为零基础中老年人设计的全能电脑AI老师。支持大字大按键界面、AI智能问答、屏幕截图识别指导、极简视频步骤库、一键联系家人协助等功能。",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
